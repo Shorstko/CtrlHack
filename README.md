@@ -7,3 +7,7 @@
 2. Не забывайте и про __открытые данные__! Их можно найти по адресу сайт_госоргана\opendata. Например:
 - [ОД Ростехнадзора](http://gosnadzor.ru/opendata/)
 - [ОД МЧС](http://www.mchs.gov.ru/opendata)
+
+3. Данные о юридических лицах, например, с сервиса [Зачестныйбизнес](https://zachestnyibiznes.ru/) или его [API](https://zachestnyibiznes.ru/api).
+
+4. Данные о госконтрактах с проекта [Госзатраты](https://clearspending.ru/) или его [API](https://clearspending.ru/page/for-developers/).
