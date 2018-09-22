@@ -1,6 +1,6 @@
 # CtrlHack
 Задачи для хакатона CtrlHack - цифровые решения для эффективного госконтроля.
-[Список задач](https://github.com/Shorstko/CtrlHack/issues)
+Выберите [задачу](https://github.com/Shorstko/CtrlHack/issues) себе по вкусу.
 
 ## Где взять данные?
 1. Помимо [предложенных данных](https://github.com/Shorstko/CtrlHack) вы можете использовать любые доступные данные, которые, как вам кажется, связаны с темой.
